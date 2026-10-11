@@ -3,7 +3,7 @@
 Upload a photo of an apple, banana or mango; the model predicts the fruit and whether it is ripe or unripe.
 Trained by me in Google Colab with Ultralytics YOLOv8n-cls.
 
-**Live demo:** _add your Streamlit link here_
+**Live demo:** https://phantom-fruit-ripeness-classifier.streamlit.app/
 
 ## Results (145 held-out test photos, 6 classes)
 | Model | Val accuracy | Test accuracy |
